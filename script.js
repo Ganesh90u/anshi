@@ -6,7 +6,7 @@ const febHolidays = [
     "And of course...",
     "partner",
     "Aur haan, meri google translator",
-    "pgli😇😇😇😇"
+    "pgli😇😇😇😇",
     "Sending you a bouquet of happiness on your birthday!",
     "Hope your birthday is just like you…totally freaking awesome.",
     "wishing for your great happiness and a joy that never ends.",
