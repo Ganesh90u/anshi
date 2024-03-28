@@ -17,8 +17,7 @@ const febHolidays = [
     "Dhyan rakhna ho",
     "😇😇🥳🥳🥳🎂🎂🎂",
     "haaaaaaapyyyyyyyyyy    bithdayyyyyyyyyyyyyy 😁😁",
-
-  ];
+    ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
   let daynumber = d.getMonth() == 1 ? d.getDate() - 1 : 0;
